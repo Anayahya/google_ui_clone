@@ -1,0 +1,78 @@
+.header{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    
+}
+.header a{
+    margin-right: 10px;
+}
+.header2{
+    background-color: red;
+    border-radius: 50%;
+    height: 32px; 
+    width: 32px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.header3{
+    font-size: 20px;
+    color: white;
+}
+a{
+    margin-right: 5px;
+}
+.gambar{
+    width: 350px;
+    
+}
+.body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+input{
+    width: 450px;
+    padding: 8px;
+    border-radius: 30px;
+    padding-left: 30px
+
+}
+.button{
+    margin-top: 10px;
+
+}
+.apa{
+    margin-right: 10px;
+}
+.apahayo{
+    display: flex;
+    align-items: center;
+
+}
+.hayo{
+    margin-right: 20px;
+
+
+}
+.bawah1{
+    background-color: black;
+
+}
+.bawah{
+    color: white;
+}
+.belum{
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color: white;
+}
+.belum a{
+    color: white;
+}
+.bentarlagi{
+    color: white;
+}  
